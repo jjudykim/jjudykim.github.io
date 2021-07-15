@@ -1,9 +1,9 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+title: jjudy's note
+tagline: '여러가지 기록'
+description: '한남대학교 멀티미디어공학과<br>19학번 김주향'
 baseurl: "/lanyon"
-url: http://codinfox.github.io
+url: http://jjudykim.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -24,12 +24,12 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
+  name: jjudyKim
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
+    github:    https://github.com/jjudykim
     # facebook:  <hide>
     twitter:   https://twitter.com/Li_Zhihao
     weibo:     http://weibo.com/41173780
@@ -46,7 +46,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'http://jjudykim.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
